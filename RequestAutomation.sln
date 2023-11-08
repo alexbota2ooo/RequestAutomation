@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestAutomation", "RequestAutomation\RequestAutomation.csproj", "{D1AC2A55-5055-4293-B4E5-B05114DD2F15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{29DA87DA-1F7A-4A97-B368-0DD86AF3C108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{213C9988-04FF-4A65-8D04-5F2BB50605FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AC2A55-5055-4293-B4E5-B05114DD2F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AC2A55-5055-4293-B4E5-B05114DD2F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AC2A55-5055-4293-B4E5-B05114DD2F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AC2A55-5055-4293-B4E5-B05114DD2F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DA87DA-1F7A-4A97-B368-0DD86AF3C108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DA87DA-1F7A-4A97-B368-0DD86AF3C108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DA87DA-1F7A-4A97-B368-0DD86AF3C108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DA87DA-1F7A-4A97-B368-0DD86AF3C108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213C9988-04FF-4A65-8D04-5F2BB50605FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213C9988-04FF-4A65-8D04-5F2BB50605FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213C9988-04FF-4A65-8D04-5F2BB50605FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213C9988-04FF-4A65-8D04-5F2BB50605FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD52B76-7DDA-45A0-A9F2-4371D043CAB1}
+	EndGlobalSection
+EndGlobal
